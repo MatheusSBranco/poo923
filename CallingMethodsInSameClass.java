@@ -2,6 +2,7 @@ public class CallingMethodsInSameClass
 {
 	public static void main(String[] args) {
 		printOne();
+		printOne();
 		printTwo();
 	}
 
